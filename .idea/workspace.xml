@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="New File Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Python_Basics/Lab004_Keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Python_Basics/Lab005_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Python_Basics/Lab006_Identifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab001_Python_Hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +51,21 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab003_Print.executor": "Run",
+    "Python.Lab004_Keywords.executor": "Run",
+    "Python.Lab005_Variable.executor": "Run",
+    "Python.Lab006_Identifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001_Python_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
@@ -103,6 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759938289104</updated>
     </task>
+    <task id="LOCAL-00001" summary="New File Added">
+      <option name="closed" value="true" />
+      <created>1759941792704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759941792704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New File Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New File Added" />
   </component>
 </project>
