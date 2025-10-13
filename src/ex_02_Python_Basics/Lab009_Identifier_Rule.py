@@ -1,0 +1,2 @@
+we_can_have_along_variable_names = True
+print(we_can_have_along_variable_names)
