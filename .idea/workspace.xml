@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="16.10.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabMatch_002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/LabSwitch_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab0049_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab048_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab050_For_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/Lab052_IQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForReverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/For/LabForUsedRealLife.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile_Vs_For.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="18.10.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/Task/Task004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task008_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_Grade_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab054_for_while_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_for_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ_Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_Odd_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab056_Q.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,9 @@
     "Python.Lab050_For_Loops.executor": "Run",
     "Python.Lab051_IQ.executor": "Run",
     "Python.Lab052_IQ2.executor": "Run",
+    "Python.Lab056_Q.executor": "Run",
+    "Python.Lab058_IQ_Even.executor": "Run",
+    "Python.Lab059_Odd_Number.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -120,8 +123,13 @@
     "Python.LabMatch_002.executor": "Run",
     "Python.LabSwitch_01.executor": "Run",
     "Python.LabWhile.executor": "Run",
+    "Python.LabWhile_Vs_For.executor": "Run",
     "Python.Task003.executor": "Run",
+    "Python.Task005.executor": "Run",
+    "Python.Task006.executor": "Run",
+    "Python.Task007.executor": "Run",
     "Python.Task_002.executor": "Run",
+    "Python.Task_Grade_Calc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -130,6 +138,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\While" />
       <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
       <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
@@ -234,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763385598067</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="18.10.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1763740272014</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763740272014</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +260,7 @@
     <MESSAGE value="11.10.2025,these are the new files." />
     <MESSAGE value="14.10.2025,these are the new files." />
     <MESSAGE value="16.10.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="16.10.2025,these are the new files." />
+    <MESSAGE value="18.10.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="18.10.2025,these are the new files." />
   </component>
 </project>
