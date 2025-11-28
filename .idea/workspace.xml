@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="18.10.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task008_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab054_for_while_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab055_for_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab058_IQ_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Lab059_Odd_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab056_Q.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="28.10.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/Task/task_fizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_vs_continue_059.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +111,7 @@
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch_002.executor": "Run",
+    "Python.LabPass_vs_continue_059.executor": "Run",
     "Python.LabSwitch_01.executor": "Run",
     "Python.LabWhile.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
@@ -130,6 +121,7 @@
     "Python.Task007.executor": "Run",
     "Python.Task_002.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
+    "Python.task_fizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -251,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763740272014</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="28.10.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1764178269431</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764178269431</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +261,7 @@
     <MESSAGE value="14.10.2025,these are the new files." />
     <MESSAGE value="16.10.2025,these are the new files." />
     <MESSAGE value="18.10.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="18.10.2025,these are the new files." />
+    <MESSAGE value="28.10.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="28.10.2025,these are the new files." />
   </component>
 </project>
