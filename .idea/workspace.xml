@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="28.10.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/Task/task_fizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/Pass_vs_Continue/LabPass_vs_continue_059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_10to0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_printEven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_skipnmbr_divisibleby3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Builtin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Functions_Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_Return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Returns_Multiple_Values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +93,13 @@
     "Python.Lab056_Q.executor": "Run",
     "Python.Lab058_IQ_Even.executor": "Run",
     "Python.Lab059_Odd_Number.executor": "Run",
+    "Python.Lab060_Builtin.executor": "Run",
+    "Python.Lab061_Example_Functions.executor": "Run",
+    "Python.Lab062_Example_Functions.executor": "Run",
+    "Python.Lab063_Functions_Parameters.executor": "Run",
+    "Python.Lab064_Type3_Function_Return.executor": "Run",
+    "Python.Lab065_Function_Default_Parameter.executor": "Run",
+    "Python.Lab066_Functions_Returns_Multiple_Values.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -120,6 +135,9 @@
     "Python.Task006.executor": "Run",
     "Python.Task007.executor": "Run",
     "Python.Task_002.executor": "Run",
+    "Python.Task_28oct_10to0.executor": "Run",
+    "Python.Task_28oct_printEven.executor": "Run",
+    "Python.Task_28oct_skipnmbr_divisibleby3.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
     "Python.task_fizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -251,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764178269431</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="28.10.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1764341594797</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764341594797</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
