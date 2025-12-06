@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="28.10.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_10to0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_printEven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_28oct_skipnmbr_divisibleby3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Builtin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Functions_Parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_Return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Returns_Multiple_Values.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="30.10.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/Task/Task001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_30_Oct_Triangle_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task_30oct_Square_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_14_Oct_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_18_Oct_API_Retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_18_Oct_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Function_Keyword_Arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_Real_Example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_16 oct_IfElse_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_16oct_IfElse_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_16 oct_IfElse_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/Task007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/Task_16 oct_IfElse_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +103,7 @@
     "Python.Lab064_Type3_Function_Return.executor": "Run",
     "Python.Lab065_Function_Default_Parameter.executor": "Run",
     "Python.Lab066_Functions_Returns_Multiple_Values.executor": "Run",
+    "Python.Lab067_Function_Keyword_Arg.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -127,6 +131,7 @@
     "Python.LabForUsedRealLife.executor": "Run",
     "Python.LabMatch_002.executor": "Run",
     "Python.LabPass_vs_continue_059.executor": "Run",
+    "Python.LabQ02.executor": "Run",
     "Python.LabSwitch_01.executor": "Run",
     "Python.LabWhile.executor": "Run",
     "Python.LabWhile_Vs_For.executor": "Run",
@@ -138,7 +143,12 @@
     "Python.Task_28oct_10to0.executor": "Run",
     "Python.Task_28oct_printEven.executor": "Run",
     "Python.Task_28oct_skipnmbr_divisibleby3.executor": "Run",
+    "Python.Task_30_Oct_Triangle_function.executor": "Run",
+    "Python.Task_30oct_Square_Function.executor": "Run",
     "Python.Task_Grade_Calc.executor": "Run",
+    "Python.task_14_Oct_Operator.executor": "Run",
+    "Python.task_18_Oct_API_Retry.executor": "Run",
+    "Python.task_18_Oct_Factorial.executor": "Run",
     "Python.task_fizzBuzz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -277,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764341594797</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="30.10.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1764783526607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764783526607</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,6 +306,7 @@
     <MESSAGE value="16.10.2025,these are the new files." />
     <MESSAGE value="18.10.2025,these are the new files." />
     <MESSAGE value="28.10.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="28.10.2025,these are the new files." />
+    <MESSAGE value="30.10.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="30.10.2025,these are the new files." />
   </component>
 </project>
