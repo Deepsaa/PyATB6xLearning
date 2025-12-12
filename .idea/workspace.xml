@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="04.11.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab096_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_SET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="06.11.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +119,9 @@
     "Python.Lab102_SET.executor": "Run",
     "Python.Lab103_SET_P2.executor": "Run",
     "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -153,8 +155,14 @@
     "Python.Lab91_Lambda.executor": "Run",
     "Python.Lab92_Lambda.executor": "Run",
     "Python.Lab93_Lambda.executor": "Run",
+    "Python.LabFilter_01.executor": "Run",
+    "Python.LabFilter_02.executor": "Run",
+    "Python.LabFilter_03.executor": "Run",
     "Python.LabForReverse.executor": "Run",
     "Python.LabForUsedRealLife.executor": "Run",
+    "Python.LabMap_01.executor": "Run",
+    "Python.LabMap_02.executor": "Run",
+    "Python.LabMap_03.executor": "Run",
     "Python.LabMatch_002.executor": "Run",
     "Python.LabPass_vs_continue_059.executor": "Run",
     "Python.LabQ02.executor": "Run",
@@ -350,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765301766763</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="06.11.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1765531995556</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765531995556</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,6 +380,7 @@
     <MESSAGE value="30.10.2025,these are the new files." />
     <MESSAGE value="01.11.2025,these are the new files." />
     <MESSAGE value="04.11.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="04.11.2025,these are the new files." />
+    <MESSAGE value="06.11.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="06.11.2025,these are the new files." />
   </component>
 </project>
