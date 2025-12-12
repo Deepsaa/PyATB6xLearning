@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="06.11.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_Dict_Mul.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="08.11.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_IQ_DictFrequency_Char_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_IQDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +119,14 @@
     "Python.Lab105_IQ.executor": "Run",
     "Python.Lab107_Dict_P2.executor": "Run",
     "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab109_Dict_Mul.executor": "Run",
+    "Python.Lab110_Dict_Concept.executor": "Run",
+    "Python.Lab111_IQ_DictFrequency_Char_String.executor": "Run",
+    "Python.Lab112_Dict.executor": "Run",
+    "Python.Lab113_Dict_IQ_Max_Value.executor": "Run",
+    "Python.Lab115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab115_IQDict.executor": "Run",
+    "Python.Lab116_IQ_count_vowel.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -366,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765531995556</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="08.11.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1765534835083</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765534835083</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -381,6 +394,7 @@
     <MESSAGE value="01.11.2025,these are the new files." />
     <MESSAGE value="04.11.2025,these are the new files." />
     <MESSAGE value="06.11.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="06.11.2025,these are the new files." />
+    <MESSAGE value="08.11.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="08.11.2025,these are the new files." />
   </component>
 </project>
