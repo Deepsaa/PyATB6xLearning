@@ -41,4 +41,4 @@ geeta = Person()
 amit = Person()
 navita = Person()
 print(geeta.name) # - A
-geeta.sleep("pramod") # - B
+geeta.sleep("Deepsa") # - B
