@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="08.11.2025,these are the new files.">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab111_IQ_DictFrequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab113_Dict_IQ_Max_Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab115_IQDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
+    <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="11.11.2025,these are the new files.">
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/Lab_117_oops_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -379,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765534835083</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="11.11.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1765552008942</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765552008942</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -395,6 +397,7 @@
     <MESSAGE value="04.11.2025,these are the new files." />
     <MESSAGE value="06.11.2025,these are the new files." />
     <MESSAGE value="08.11.2025,these are the new files." />
-    <option name="LAST_COMMIT_MESSAGE" value="08.11.2025,these are the new files." />
+    <MESSAGE value="11.11.2025,these are the new files." />
+    <option name="LAST_COMMIT_MESSAGE" value="11.11.2025,these are the new files." />
   </component>
 </project>
