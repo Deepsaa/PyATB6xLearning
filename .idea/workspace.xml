@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="2cf4f7fc-7a24-4a05-872c-32115f13eb7d" name="Changes" comment="18.11.2025,these are the new files.">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_1_Nov_Api_Status.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task_4_Nov_Right_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/01_SI/Lab133_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab134_MI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/02_MI/Lab135_MI_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/03_ML/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/04_HI/Lab137_HI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab138_HybriD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/05_Inheritance/05_HB_I/Lab139__REAL_AUTOMATION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_OOps_Python/06_Polymorphism/Method_Overriding/Lab140_MO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +131,8 @@
     "Python.Lab116_IQ_count_vowel.executor": "Run",
     "Python.Lab131_Ecap_Example.executor": "Run",
     "Python.Lab132_Ecap_Personal.executor": "Run",
+    "Python.Lab133_Inheritance.executor": "Run",
+    "Python.Lab138_HybriD.executor": "Run",
     "Python.Lab15_IQ.executor": "Run",
     "Python.Lab29_Task1.executor": "Run",
     "Python.Lab30_Task2.executor": "Run",
@@ -213,6 +221,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\05_Inheritance\04_HI" />
       <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_18_OOps_Python\01_Class_Object" />
       <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\While" />
       <recent name="C:\Users\91826\PycharmProjects\PyATB6xLearning\src\ex_07_Loops\For" />
@@ -431,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767631225799</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="18.11.2025,these are the new files.">
+      <option name="closed" value="true" />
+      <created>1767631770719</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1767631770719</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
